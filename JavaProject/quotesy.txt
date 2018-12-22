@@ -1,0 +1,61 @@
+It is not a lack of love, but a lack of friendship that makes unhappy marriages.
+-- Friedrich Nietzsche
+
+In terms of energy, it's better to make a wrong choice than none at all.
+-- George Leonard, Mastery.
+
+Courage is grace under pressure.
+-- Ernest Hemingway
+
+Actually, the essence of boredom is to be found in the obsessive search for
+novelty. Satisfaction lies in mindful repetition, the discovery of endless
+richness in subtle variations on familiar themes.
+-- George Leonard, Mastery.
+
+Before enlightenment, chop wood and carry water.
+After enlightenment, chop wood and carry water.
+-- Ancient Eastern adage
+
+Acknowledging the negative doesn't mean sniveling [whining, complaining]; it
+means facing the truth and then moving on.
+-- George Leonard, Mastery.
+
+Whatever you can do, or dream you can, begin it. Boldness has genius, power, and
+magic in it.
+-- Goethe
+
+What we choose to fight is so tiny!
+What fights us is so great!
+...
+When we win it's with small things,
+and the triumph itself makes us small.
+...
+Winning does not tempt that man.
+This is how he grows: by being defeated, decisively,
+by constantly greater beings. 
+-- Rainer Maria Rilke, The Man Watching.
+
+We fail to realize that mastery is not about perfection. It's about a process,
+a journey. The master is the one who stays on the path day after day, year after
+year. The master is the one who is willing to try, and fail, and try again, for
+as long as he or she lives.
+-- George Leonard, Mastery.
+
+Are you willing to wear your white belt?
+-- George Leonard, Mastery.
+
+1 - Creativity and innovation always build on the past.
+2 - The past always tries to control the creativity that builds on it.
+3 - Free societies enable the future by limiting the past.
+4 - Ours is less and less a free society.
+-- Lawrence Lessig, Free Culture.
+
+A CS professor once explained recursion as follows:
+A child couldn't sleep, so her mother told her a story about a little frog,
+    who couldn't sleep, so the frog's mother told her a story about a little bear,
+         who couldn't sleep, so the bear's mother told her a story about a little weasel...
+            who fell asleep.
+        ...and the little bear fell asleep;
+    ...and the little frog fell asleep;
+...and the child fell asleep.
+-- everything2.com
